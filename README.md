@@ -8,11 +8,6 @@
 
   ### [Deployed Website](https://jate-app01-23cb30157c0d.herokuapp.com/)
 
-  ## Table Of Contents
-  - [Installation](#installation)
-  - [Demo Video](#demo-video)
-  - [Questions](#questions)
-
   ## Installation
   To run J.A.T.E locally:
 
